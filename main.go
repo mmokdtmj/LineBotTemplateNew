@@ -1,23 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Gist
- @mmokdtmj
- Sign out
- Unwatch 1
-  Star 0
-  Fork 215 mmokdtmj/LineBotTemplate
-forked from kkdai/LineBotTemplate
- Code  Pull requests 1  Projects 0  Wiki  Settings Insights 
-Branch: master Find file Copy pathLineBotTemplate/main.go
-5ecf892  15 days ago
-@mmokdtmj mmokdtmj Update main.go
-2 contributors @mmokdtmj @kkdai
-RawBlameHistory     
-192 lines (173 sloc)  8.7 KB
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
 // You may obtain a copy of the License at
